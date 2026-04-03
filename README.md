@@ -2,7 +2,7 @@
 
 A simple menu-driven calculator using Java OOP.
 
-## Features
+### Features
 - Add
 - Subtract
 - Multiply
